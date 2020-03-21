@@ -1,22 +1,22 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Noreta Agus Sasono",
+  "header_title": "Noreta Agus Sasono",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "noreta@sasono.web.id",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
+      "handle": "norsasono",
       "link_text": "tw"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "norsasono",
       "link_text": "ig"
     },
     {
       "channel": "github",
-      "handle": "itsnwa",
+      "handle": "norsasono",
       "link_text": "gh"
     }
   ]
