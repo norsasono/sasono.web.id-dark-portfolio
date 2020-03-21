@@ -1,5 +1,5 @@
 ---
-title: s-Clean Laundry
+title: S-Clean Laundry
 thumbnail: "../static/uploads/sclean-depan.jpg"
 year: "2019"
 categories:
