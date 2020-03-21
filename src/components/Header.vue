@@ -22,7 +22,9 @@
       </span>
     </g-link>
     <div class="contact">
-      <a class="link" :href="`mailto:${data.email}`">say hi !</a>
+      <a class="link" :href="`https://sasono.web.id/about`">about</a> ∙ 
+      <a class="link" :href="`https://blog.sasono.web.id`">blog</a> ∙ 
+      <a class="link" :href="`https://photo.sasono.web.id`">photo</a>
     </div>
   </header>
 </template>
